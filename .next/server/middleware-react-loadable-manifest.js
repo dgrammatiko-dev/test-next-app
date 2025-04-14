@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST='{"../node_modules/@tanstack/query-devtools/build/index.js -> ./DevtoolsComponent/C2Q2AJ2U.js":{"id":null,"files":[]},"../node_modules/@tanstack/query-devtools/build/index.js -> ./DevtoolsPanelComponent/CTUG6TWM.js":{"id":null,"files":[]}}';
